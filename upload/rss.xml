@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="GBK"?>
+<rss version="2.0" >
+<channel> <title><![CDATA[听你流浪-51CTO技术博客]]></title>
+ <link><![CDATA[http://zhanglianxin.blog.51cto.com]]></link>
+ <description><![CDATA[Latest 20 blogs of zh_lianxin]]></description>
+ <copyright><![CDATA[Copyright(C) 51CTO技术博客-领先的IT技术博客]]></copyright>
+ <generator><![CDATA[51CTO BLOG by 51CTO Studio]]></generator>
+ <lastBuildDate>Thu, 06 Oct 2016 09:07:38 +0000</lastBuildDate>
+  <image>
+ <url><![CDATA[http://img1.51cto.com/image/skin/1/rss.gif]]></url>
+ <title><![CDATA[51CTO BLOG]]></title>
+ <link><![CDATA[http://blog.51cto.com]]></link>
+ <description><![CDATA[51CTO技术博客-领先的IT技术博客]]></description>
+  </image>
+<item>
+ <title><![CDATA[setProperty设置和取得属性]]></title>
+ <description><![CDATA[setProperty设置和取得属性关于setProperty的设置&lt;jsp:setProperty&gt;的属性设置可以分为四种：1. 自动匹配：&lt;jsp:setProperty name="实例化对象名称（id）" property="*"/&gt;2.指定属性：&lt;jsp:setPro..【<a href="http://zhanglianxin.blog.51cto.com/8312202/1707658" target="_blank">继续阅读全文</a>】]]></description>
+ <link><![CDATA[http://zhanglianxin.blog.51cto.com/8312202/1707658]]></link>
+ <author><![CDATA[zh_lianxin]]></author>
+ <category><![CDATA[Web开发]]></category>
+ <pubdate><![CDATA[Thu, 29 Oct 2015 14:06:40 +0000]]></pubdate>
+</item>
+<item>
+ <title><![CDATA[理解HTML中的id属性和name属性]]></title>
+ <description><![CDATA[HTML &lt;input&gt; 标签的 name 属性元素的名称。定义和用法name 属性规定 input 元素的名称。name 属性用于对提交到服务器后的表单数据进行标识，或者在客户端通过 JavaScript 引用表单数据。注释：只有设置了 ..【<a href="http://zhanglianxin.blog.51cto.com/8312202/1707013" target="_blank">继续阅读全文</a>】]]></description>
+ <link><![CDATA[http://zhanglianxin.blog.51cto.com/8312202/1707013]]></link>
+ <author><![CDATA[zh_lianxin]]></author>
+ <category><![CDATA[Web开发]]></category>
+ <pubdate><![CDATA[Wed, 28 Oct 2015 00:26:49 +0000]]></pubdate>
+</item>
+<item>
+ <title><![CDATA[print()方法对char类型数组自动遍历输出源码分析]]></title>
+ <description><![CDATA[package&nbsp;java.io;
+
+class&nbsp;PrintStream&nbsp;extends&nbsp;FilterOutputStream&nbsp;{
+	private&nbsp;final&nbsp;boolean&nbsp;autoFlush;
+	private&nbsp;boolean&nbsp;trouble&nbsp;=&nbsp;false;
+	
+	/..【<a href="http://zhanglianxin.blog.51cto.com/8312202/1700536" target="_blank">继续阅读全文</a>】]]></description>
+ <link><![CDATA[http://zhanglianxin.blog.51cto.com/8312202/1700536]]></link>
+ <author><![CDATA[zh_lianxin]]></author>
+ <category><![CDATA[Java]]></category>
+ <pubdate><![CDATA[Tue, 06 Oct 2015 22:54:51 +0000]]></pubdate>
+</item>
+<item>
+ <title><![CDATA[黑马程序员--Java基础学习笔记【重载、数组操作】]]></title>
+ <description><![CDATA[&nbsp;&nbsp;------Java培训、Android培训、iOS培训、.Net培训、期待与您交流！ ------- &nbsp; &nbsp;&nbsp;方法重载同一个类中允许多个同名的方法存在，但参数列表不同方法的重载和修饰符、返回值没有关系JVM ..【<a href="http://zhanglianxin.blog.51cto.com/8312202/1698062" target="_blank">继续阅读全文</a>】]]></description>
+ <link><![CDATA[http://zhanglianxin.blog.51cto.com/8312202/1698062]]></link>
+ <author><![CDATA[zh_lianxin]]></author>
+ <category><![CDATA[Java]]></category>
+ <pubdate><![CDATA[Fri, 25 Sep 2015 07:57:51 +0000]]></pubdate>
+</item>
+<item>
+ <title><![CDATA[黑马程序员--Java基础学习笔记【二维数组、面向对象】]]></title>
+ <description><![CDATA[&nbsp;&nbsp;------Java培训、Android培训、iOS培训、.Net培训、期待与您交流！ ------- &nbsp; &nbsp;&nbsp;二维数组元素为一维数组的数组，数组存储的还是数组 int arr[] = { 数组 }定义格式：&nbsp;&nbsp;&nbs..【<a href="http://zhanglianxin.blog.51cto.com/8312202/1698061" target="_blank">继续阅读全文</a>】]]></description>
+ <link><![CDATA[http://zhanglianxin.blog.51cto.com/8312202/1698061]]></link>
+ <author><![CDATA[zh_lianxin]]></author>
+ <category><![CDATA[Java]]></category>
+ <pubdate><![CDATA[Fri, 25 Sep 2015 07:53:44 +0000]]></pubdate>
+</item>
+<item>
+ <title><![CDATA[黑马程序员--Java基础学习笔记【构造器、静态】]]></title>
+ <description><![CDATA[&nbsp;&nbsp;------Java培训、Android培训、iOS培训、.Net培训、期待与您交流！ ------- &nbsp; &nbsp;&nbsp;构造方法，构造器（constructor）用于给对象的数据进行初始化，每个类都有构造方法。构造方法可以重载..【<a href="http://zhanglianxin.blog.51cto.com/8312202/1698060" target="_blank">继续阅读全文</a>】]]></description>
+ <link><![CDATA[http://zhanglianxin.blog.51cto.com/8312202/1698060]]></link>
+ <author><![CDATA[zh_lianxin]]></author>
+ <category><![CDATA[Java]]></category>
+ <pubdate><![CDATA[Fri, 25 Sep 2015 07:52:14 +0000]]></pubdate>
+</item>
+<item>
+ <title><![CDATA[黑马程序员--Java基础学习笔记【继承、多态】]]></title>
+ <description><![CDATA[&nbsp;&nbsp;------Java培训、Android培训、iOS培训、.Net培训、期待与您交流！ ------- &nbsp; &nbsp;&nbsp;继承 class 子类名extends 父类名{}继承的好处：提高代码复用性；提高代码维护性；类之间产生关系，多..【<a href="http://zhanglianxin.blog.51cto.com/8312202/1698059" target="_blank">继续阅读全文</a>】]]></description>
+ <link><![CDATA[http://zhanglianxin.blog.51cto.com/8312202/1698059]]></link>
+ <author><![CDATA[zh_lianxin]]></author>
+ <category><![CDATA[Java]]></category>
+ <pubdate><![CDATA[Fri, 25 Sep 2015 07:50:00 +0000]]></pubdate>
+</item>
+<item>
+ <title><![CDATA[黑马程序员--Java基础学习笔记【抽象类、接口】]]></title>
+ <description><![CDATA[&nbsp;&nbsp;------Java培训、Android培训、iOS培训、.Net培训、期待与您交流！ ------- &nbsp; &nbsp;&nbsp;抽象类抽象方法：由abstract 修饰的方法为抽象方法，抽象方法只有方法的定义，没有方法体实现，用一个..【<a href="http://zhanglianxin.blog.51cto.com/8312202/1698058" target="_blank">继续阅读全文</a>】]]></description>
+ <link><![CDATA[http://zhanglianxin.blog.51cto.com/8312202/1698058]]></link>
+ <author><![CDATA[zh_lianxin]]></author>
+ <category><![CDATA[Java]]></category>
+ <pubdate><![CDATA[Fri, 25 Sep 2015 07:47:55 +0000]]></pubdate>
+</item>
+<item>
+ <title><![CDATA[黑马程序员--Java基础学习笔记【参数传递、访问控制符、内部类】]]></title>
+ <description><![CDATA[&nbsp;&nbsp;------Java培训、Android培训、iOS培训、.Net培训、期待与您交流！ ------- &nbsp; &nbsp;&nbsp;形式参数和返回值问题：基本类型传值，引用类型传址包声明、导包、类声明的的顺序关系：packagecn.itc..【<a href="http://zhanglianxin.blog.51cto.com/8312202/1698049" target="_blank">继续阅读全文</a>】]]></description>
+ <link><![CDATA[http://zhanglianxin.blog.51cto.com/8312202/1698049]]></link>
+ <author><![CDATA[zh_lianxin]]></author>
+ <category><![CDATA[Java]]></category>
+ <pubdate><![CDATA[Fri, 25 Sep 2015 01:30:00 +0000]]></pubdate>
+</item>
+<item>
+ <title><![CDATA[黑马程序员--Java基础学习笔记【Object类、String类】]]></title>
+ <description><![CDATA[&nbsp;&nbsp;------Java培训、Android培训、iOS培训、.Net培训、期待与您交流！ ------- &nbsp; &nbsp;&nbsp;Object类在Java类继承结构中，java.lang.Object类位于顶端。所有类都直接或间接继承Object类。（接口..【<a href="http://zhanglianxin.blog.51cto.com/8312202/1698048" target="_blank">继续阅读全文</a>】]]></description>
+ <link><![CDATA[http://zhanglianxin.blog.51cto.com/8312202/1698048]]></link>
+ <author><![CDATA[zh_lianxin]]></author>
+ <category><![CDATA[Java]]></category>
+ <pubdate><![CDATA[Fri, 25 Sep 2015 01:27:43 +0000]]></pubdate>
+</item>
+<item>
+ <title><![CDATA[黑马程序员--Java基础学习笔记【数组操作、基本数据类型包装类】]]></title>
+ <description><![CDATA[&nbsp;&nbsp;------Java培训、Android培训、iOS培训、.Net培训、期待与您交流！ ------- &nbsp; &nbsp;&nbsp;数组排序和查找// 选择排序public static void selectSort(int[] array){&nbsp;&nbsp;&nbsp; // i: 0 ..【<a href="http://zhanglianxin.blog.51cto.com/8312202/1698047" target="_blank">继续阅读全文</a>】]]></description>
+ <link><![CDATA[http://zhanglianxin.blog.51cto.com/8312202/1698047]]></link>
+ <author><![CDATA[zh_lianxin]]></author>
+ <category><![CDATA[Java]]></category>
+ <pubdate><![CDATA[Fri, 25 Sep 2015 01:26:24 +0000]]></pubdate>
+</item>
+<item>
+ <title><![CDATA[黑马程序员--Java基础学习笔记【正则表达式、常用API】]]></title>
+ <description><![CDATA[&nbsp;&nbsp;------Java培训、Android培训、iOS培训、.Net培训、期待与您交流！ ------- &nbsp; &nbsp;&nbsp;正则表达式正则表达式的组成规则 java.util.regex.Pattern常见组成规则字符集合&nbsp;&nbsp;&nbsp; [a..【<a href="http://zhanglianxin.blog.51cto.com/8312202/1698046" target="_blank">继续阅读全文</a>】]]></description>
+ <link><![CDATA[http://zhanglianxin.blog.51cto.com/8312202/1698046]]></link>
+ <author><![CDATA[zh_lianxin]]></author>
+ <category><![CDATA[Java]]></category>
+ <pubdate><![CDATA[Fri, 25 Sep 2015 01:22:46 +0000]]></pubdate>
+</item>
+<item>
+ <title><![CDATA[黑马程序员--Java基础学习笔记【集合-List、泛型】]]></title>
+ <description><![CDATA[&nbsp;&nbsp;------Java培训、Android培训、iOS培训、.Net培训、期待与您交流！ ------- &nbsp;&nbsp;&nbsp;集合框架 Collection &nbsp;java.util(interface)集合 只能存储引用类型，存储对象，不存储基本类型，..【<a href="http://zhanglianxin.blog.51cto.com/8312202/1698045" target="_blank">继续阅读全文</a>】]]></description>
+ <link><![CDATA[http://zhanglianxin.blog.51cto.com/8312202/1698045]]></link>
+ <author><![CDATA[zh_lianxin]]></author>
+ <category><![CDATA[Java]]></category>
+ <pubdate><![CDATA[Fri, 25 Sep 2015 01:21:26 +0000]]></pubdate>
+</item>
+<item>
+ <title><![CDATA[黑马程序员--Java基础学习笔记【集合-Set】]]></title>
+ <description><![CDATA[&nbsp;&nbsp;------Java培训、Android培训、iOS培训、.Net培训、期待与您交流！ ------- &nbsp; &nbsp;&nbsp;Set 接口特点：&nbsp;&nbsp;&nbsp; 不允许存储重复元素，无序集合：存储取出没有顺序（不保证迭代顺序..【<a href="http://zhanglianxin.blog.51cto.com/8312202/1698044" target="_blank">继续阅读全文</a>】]]></description>
+ <link><![CDATA[http://zhanglianxin.blog.51cto.com/8312202/1698044]]></link>
+ <author><![CDATA[zh_lianxin]]></author>
+ <category><![CDATA[Java]]></category>
+ <pubdate><![CDATA[Fri, 25 Sep 2015 01:19:42 +0000]]></pubdate>
+</item>
+<item>
+ <title><![CDATA[黑马程序员--Java基础学习笔记【集合-Map】]]></title>
+ <description><![CDATA[&nbsp;&nbsp;------Java培训、Android培训、iOS培训、.Net培训、期待与您交流！ ------- &nbsp; &nbsp;&nbsp;Map 接口&nbsp;&nbsp;&nbsp; Map 接口定义的集合，又称查找表&nbsp;&nbsp;&nbsp; Map 接口和 Collecti..【<a href="http://zhanglianxin.blog.51cto.com/8312202/1698043" target="_blank">继续阅读全文</a>】]]></description>
+ <link><![CDATA[http://zhanglianxin.blog.51cto.com/8312202/1698043]]></link>
+ <author><![CDATA[zh_lianxin]]></author>
+ <category><![CDATA[Java]]></category>
+ <pubdate><![CDATA[Fri, 25 Sep 2015 01:18:27 +0000]]></pubdate>
+</item>
+<item>
+ <title><![CDATA[黑马程序员--Java基础学习笔记【异常处理】]]></title>
+ <description><![CDATA[&nbsp;&nbsp;------Java培训、Android培训、iOS培训、.Net培训、期待与您交流！ ------- &nbsp; &nbsp;&nbsp;异常&nbsp;&nbsp;&nbsp; 异常就是Java程序在运行过程中出现的导致程序无法正常运行的错误。Java 中异..【<a href="http://zhanglianxin.blog.51cto.com/8312202/1698042" target="_blank">继续阅读全文</a>】]]></description>
+ <link><![CDATA[http://zhanglianxin.blog.51cto.com/8312202/1698042]]></link>
+ <author><![CDATA[zh_lianxin]]></author>
+ <category><![CDATA[Java]]></category>
+ <pubdate><![CDATA[Fri, 25 Sep 2015 01:16:48 +0000]]></pubdate>
+</item>
+<item>
+ <title><![CDATA[黑马程序员--Java基础学习笔记【文件操作、递归】]]></title>
+ <description><![CDATA[&nbsp;&nbsp;------Java培训、Android培训、iOS培训、.Net培训、期待与您交流！ ------- &nbsp; &nbsp;&nbsp;文件操作&nbsp;&nbsp;&nbsp; 文件和目录路径名的抽象表示形式。成员变量&nbsp;&nbsp;&nbsp;&nbsp;&nbs..【<a href="http://zhanglianxin.blog.51cto.com/8312202/1698041" target="_blank">继续阅读全文</a>】]]></description>
+ <link><![CDATA[http://zhanglianxin.blog.51cto.com/8312202/1698041]]></link>
+ <author><![CDATA[zh_lianxin]]></author>
+ <category><![CDATA[Java]]></category>
+ <pubdate><![CDATA[Fri, 25 Sep 2015 01:15:39 +0000]]></pubdate>
+</item>
+<item>
+ <title><![CDATA[黑马程序员--Java基础学习笔记【IO流-字节流、转换流】]]></title>
+ <description><![CDATA[&nbsp;&nbsp;------Java培训、Android培训、iOS培训、.Net培训、期待与您交流！ ------- &nbsp; &nbsp;&nbsp;IO 流常用基类&nbsp;&nbsp;&nbsp; 字节流 InputStreamOutputStream&nbsp;&nbsp;&nbsp; 常用方法&nbsp;..【<a href="http://zhanglianxin.blog.51cto.com/8312202/1698040" target="_blank">继续阅读全文</a>】]]></description>
+ <link><![CDATA[http://zhanglianxin.blog.51cto.com/8312202/1698040]]></link>
+ <author><![CDATA[zh_lianxin]]></author>
+ <category><![CDATA[Java]]></category>
+ <pubdate><![CDATA[Fri, 25 Sep 2015 01:14:10 +0000]]></pubdate>
+</item>
+<item>
+ <title><![CDATA[黑马程序员--Java基础学习笔记【IO流-字符流】]]></title>
+ <description><![CDATA[&nbsp;&nbsp;------Java培训、Android培训、iOS培训、.Net培训、期待与您交流！ ------- &nbsp; &nbsp;&nbsp;IO 流常用基类&nbsp;&nbsp;&nbsp; 字节流 InputStreamOutputStream&nbsp;&nbsp;&nbsp; 常用方法&nbsp;..【<a href="http://zhanglianxin.blog.51cto.com/8312202/1698039" target="_blank">继续阅读全文</a>】]]></description>
+ <link><![CDATA[http://zhanglianxin.blog.51cto.com/8312202/1698039]]></link>
+ <author><![CDATA[zh_lianxin]]></author>
+ <category><![CDATA[Java]]></category>
+ <pubdate><![CDATA[Fri, 25 Sep 2015 01:12:23 +0000]]></pubdate>
+</item>
+<item>
+ <title><![CDATA[黑马程序员--Java基础学习笔记【序列化、多线程】]]></title>
+ <description><![CDATA[&nbsp;&nbsp;------Java培训、Android培训、iOS培训、.Net培训、期待与您交流！ ------- &nbsp;&nbsp;&nbsp;序列化流与反序列化流&nbsp;&nbsp;&nbsp; ObjectOutputStream 对象输出流&nbsp;&nbsp;&nbsp; writeObje..【<a href="http://zhanglianxin.blog.51cto.com/8312202/1698038" target="_blank">继续阅读全文</a>】]]></description>
+ <link><![CDATA[http://zhanglianxin.blog.51cto.com/8312202/1698038]]></link>
+ <author><![CDATA[zh_lianxin]]></author>
+ <category><![CDATA[Java]]></category>
+ <pubdate><![CDATA[Fri, 25 Sep 2015 01:06:51 +0000]]></pubdate>
+</item>
+</channel></rss>

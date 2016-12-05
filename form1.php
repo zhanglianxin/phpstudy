@@ -1,7 +1,7 @@
 ﻿<!DOCTYPE html>
 <html>
 <head>
-	<title>表单处理</title>
+    <title>表单处理</title>
 </head>
 <body>
 <form action="welcome.php" method="post">

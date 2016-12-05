@@ -1,22 +1,22 @@
 <?php
-	/**
-	* 
-	*/
-	class TestClass
-	{
-		public $foo;
+    /**
+    * 
+    */
+    class TestClass
+    {
+        public $foo;
 
-		public function __construct($foo)
-		{
-			$this->foo = $foo;
-		}
+        public function __construct($foo)
+        {
+            $this->foo = $foo;
+        }
 
-		public function __toString()
-		{
-			return $this->foo;
-		}
-	}
+        public function __toString()
+        {
+            return $this->foo;
+        }
+    }
 
-	$class = new TestClass("HelloPHP");
-	echo $class;
+    $class = new TestClass("HelloPHP");
+    echo $class;
 ?>

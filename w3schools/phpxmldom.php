@@ -13,7 +13,7 @@
     // 初始化 XML 解析器
     $xmlDoc = new DOMDocument();
     // 加载 XML 文档
-    $xmlDoc -> load("upload/news.xml");
+    $xmlDoc -> load("../upload/news.xml");
 
     // 保存 XML 
     $str = $xmlDoc -> saveXML();

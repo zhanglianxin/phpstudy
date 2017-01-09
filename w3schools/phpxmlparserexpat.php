@@ -68,7 +68,7 @@
     // 指定字符数据处理器
     xml_set_character_data_handler($parser, "elementData");
 
-    $fp = fopen("upload/news.xml", "r");
+    $fp = fopen("../upload/news.xml", "r");
 
     while ($data = fread($fp, 4096)) {
         // 解析数据块（解析器，数据，是否为当前解析的最后一段数据）
@@ -202,7 +202,7 @@
 
     xml_set_character_data_handler($parser, "elementData2");
 
-    $fp = fopen("upload/rss.xml", "r");
+    $fp = fopen("../upload/rss.xml", "r");
 
     while ($data = fread($fp, 4096)) {
         xml_parse($parser, $data, feof($fp)) or die(

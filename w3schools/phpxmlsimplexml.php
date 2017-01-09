@@ -14,7 +14,7 @@
     #          如果一个元素拥有多个文本节点，则按照它们被找到的顺序进行排列。
 
     // 加载 XML 文档
-    $xml = simplexml_load_file("upload/news.xml");
+    $xml = simplexml_load_file("../upload/news.xml");
 
     // 获取第一个元素的名称
     echo $xml -> getName()."<br>";

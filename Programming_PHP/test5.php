@@ -145,7 +145,7 @@ class Bird
 {
     use Sortable;
     function uniqueId() {
-        return __CLASS__ . ":{$this->id}";
+        return "{$this->id}";
     }
 }
 // Fatal error: Class Car contains 1 abstract method and must therefore
@@ -154,7 +154,7 @@ class Car
 {
     use Sortable;
     function uniqueId() {
-        return __CLASS__ . ":{$this->id}";
+        return "{$this->id}";
     }
 }
 $bird = new Bird;

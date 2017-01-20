@@ -1,6 +1,6 @@
 <?php
 /**
- * 对象自省函数
+ * 对象自省函数 P.172
  */
 // 返回一个可调用方法的数组（包括继承的方法）
 function getCallableMethods($object)

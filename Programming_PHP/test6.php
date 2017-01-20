@@ -1,5 +1,5 @@
 <?php
-// 显示所有已声明的类
+// 显示所有已声明的类 P.171
 function displayClasses()
 {
     $classes = get_declared_classes();

@@ -1,7 +1,7 @@
 <?php // 自处理页面 ?>
 <?php if ($_SERVER['REQUEST_METHOD'] === "GET") { ?>
     <form action="<?php echo $_SERVER['PHP_SELF'] ?>" method="POST">
-        Fahrenheit temperature: <input type="number" name="fahrenheit"><br>
+        Fahrenheit temperature: <input type="text" name="fahrenheit"><br>
         <input type="submit" value="Convert to Celsius!">
     </form>
 <?php } elseif ($_SERVER['REQUEST_METHOD'] === "POST") {

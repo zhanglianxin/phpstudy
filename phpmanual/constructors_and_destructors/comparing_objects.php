@@ -9,7 +9,7 @@
  * and only if they refer to the same instance of the same class.
  *
  * Example #1 Example of object comparison in PHP 5
- * php.net/manual/en/language.oop5.object-comparison.php#language.oop5.traits.properties.conflicts
+ * http://php.net/manual/en/language.oop5.object-comparison.php#language.oop5.traits.properties.conflicts
  */
 
 function bool2str($bool)

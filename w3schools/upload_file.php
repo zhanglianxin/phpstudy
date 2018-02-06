@@ -9,7 +9,7 @@
         echo "Size: ".($_FILES["file"]["size"] / 1024)." KB<br>";
         echo "Stored in: ".$_FILES["file"]["tmp_name"]."<br>";
 
-        $dest = "../upload/".$_FILES["file"]["name"];
+        $dest = "../upload/". time() . $_FILES["file"]["name"];
         // 检查上传路径中文件是否已经存在
         if (file_exists($dest)) {
             echo $_FILES["file"]["name"]." already exists.";

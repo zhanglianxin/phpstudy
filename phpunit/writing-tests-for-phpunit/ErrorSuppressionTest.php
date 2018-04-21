@@ -2,6 +2,9 @@
 
 use PHPUnit\Framework\TestCase;
 
+/**
+ * Testing return values of code that uses PHP Errors
+ */
 class ErrorSupressionTest extends TestCase
 {
     public function testFileWriting()
